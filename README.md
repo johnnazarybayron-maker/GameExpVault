@@ -19,24 +19,7 @@ Our vault runs on a powerful engine designed to make playing and creating as sea
 ## 🕹️ Featured Experiences inside the Vault
 Here are some of the top "Places" you can play right now inside the ecosystem, including our custom Roblox-inspired games:
 
-### 🏃‍♂️ Grid Runners (Classic Roblox-Style Obby)
-* Test your skills in an intense, block-based obstacle course race against the clock with moving hazards, kill-bricks, and classic physics-based traps.
-
-### 🏰 Crown Academy (RPG / Simulator)
-* Roleplay with friends, customize your brick house, and adopt pets in a massive open-world social hub.
-
-### 🔫 Neon Strike (FPS / Action)
-* A fast-paced, competitive team deathmatch featuring customizable loadouts and destructible voxel environments.
-
 ---
-
-## 🛠️ How to Launch & Play
-
-### 1. Enter the Hub
-Run the main launcher script to open the Vault Dashboard:
-```bash
-python main_launcher.py
-```
 
 ### 2. Choose Your Experience
 Browse the menu, click on any game card, and press **Play** to instantly download and boot that specific world asset.
@@ -45,6 +28,8 @@ Browse the menu, click on any game card, and press **Play** to instantly downloa
 
 ## 🧑‍💻 Creator Hub (Building Your Own Game)
 Want to add your own game to the Vault? Our developer SDK makes it easy to write scripts and build maps.
+
+## Comming SOON!! (Sorry)
 
 ### Sample Game Initialization Script:
 ```lua
